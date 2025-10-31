@@ -1,1 +1,1 @@
-# Clustering-and-Trend-Analysis-for-Ride-Sharing-Demand-and-Behavior
+# Uber Operations & Demand Analytics: Clustering, Rider Behavior, and Trend Modeling
